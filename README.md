@@ -22,7 +22,7 @@ Also along these lines, Brunoflow has no GPU backend.
 #### Transferability
 Learners who familiarize themselves with Brunoflow should be able to transfer this knowledge to other, more "production-ready" deep learning frameworks.
 Thus, wherever possible, the documentation for each Brunoflow function and class points out the equivalent (or analagous) entity in both Tensorflow and PyTorch.
-Doing this consistently, throughout the entire codebase, helps drive home the universality of this concepts (and helps learners separate those concepts from the specifics of their implementation in any given framework).
+Doing this consistently, throughout the entire codebase, helps drive home the universality of these concepts (and helps learners separate those concepts from the specifics of their implementation in any given framework).
 
 
 ## Package Structure
