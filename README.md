@@ -1,3 +1,5 @@
+![Brunoflow Logo Image](/logo.png)
+
 # brunoflow
 A simple, well-documented, pedagogical deep learning framework implemented entirely in Python
 
