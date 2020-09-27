@@ -49,6 +49,10 @@ If you use Brunoflow in your courses and/or research, please cite it as:
         howpublished = {\url{https://github.com/Brown-Deep-Learning/brunoflow}},
         year = {2020}
     }
+    
+## Course Materials
+The course staff of CS 1470/2470 has created lecture slides and Google Colab notebooks which introduce students to automatic differentiation and Brunoflow and help develop their understanding of how these systems work via programming and debugging exercises.
+If you would like to use these materials in your own course(s), please send inquiries to <cs1470headtas@lists.brown.edu>.
 
 ## The Name
 Brunoflow is named after Brown University's mascot, Bruno the bear.
